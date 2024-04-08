@@ -31,4 +31,4 @@ Jacob has 300 active hours!
 Marco has 300 active hours!
 
 Marco has 320 active hours!
-# goit-js-hw-04
+
